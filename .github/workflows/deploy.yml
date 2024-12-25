@@ -21,6 +21,8 @@ jobs:
         run: |
           cd astrosite
           npm run build
+      - name: Copy CNAME
+        run: cp CNAME dist/
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:

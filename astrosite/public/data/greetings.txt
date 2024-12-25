@@ -1,0 +1,17 @@
+Hej, hur mar du idag?|Swedish: Hello, how are you today?
+Bonjour, comment allez-vous aujourd'hui?|French: Hello, how are you today?
+Guten Tag, wie geht es Ihnen heute?|German: Good day, how are you today?
+Czesc, jak sie dzisiaj masz?|Polish: Hi, how are you today?
+Bok, kako si danas?|Croatian: Hey, how are you today?
+Ciao, come stai oggi?|Italian: Hi, how are you today?
+Geia sou, pos eisai simera?|Greek: Hello, how are you today?
+Hola, como estas hoy?|Spanish: Hello, how are you today?
+Hallo, hvernig hefur thu thad i dag?|Icelandic: Hello, how are you today?
+Lissa enathiel, aen halin toriel?|Elvish: Blessed morning, are you well on this fine dawn?
+Grondal vegh durgon, olkhar kahn?|Dwarvish: Deep greetings from the forge, friend?
+Varrakash dresh norakh viresk?|Dragonkin: May your scales shine with power this day?
+Seliana varis kelarri, shor veish telan?|Sylvan: Star-kissed greetings, does the forest guide your steps?
+Gruk ta'roth vazh, mok tarak non?|Orcish: Honor upon you, is your blood strong today?
+Naulasei kesh yarha, turim sea-ra?|Merfolk: Waves beckon you, do you drift in harmony?
+Sul sul, vadeesh?|Simlish: Hey there, how's it going?
+Dag dag, wibsy noo?|Simlish: Hello, everything good?

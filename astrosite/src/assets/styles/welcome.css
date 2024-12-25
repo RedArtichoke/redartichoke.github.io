@@ -1,0 +1,43 @@
+.welcome-container {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: fit-content;
+    width: fit-content;
+    
+    display: flex;
+    top: 3rem;
+    justify-self: center;
+
+    padding: 0 var(--spacing-xl);
+    background-color: var(--colour-background);
+}
+
+.welcome-text {
+    position: relative;
+    text-align: center;
+    padding: 0 var(--spacing-xl);
+    margin: var(--spacing-md) var(--spacing-xl);
+    transition: opacity 0.1s ease-in;
+    opacity: 1;
+}
+
+.fade-out {
+    opacity: 0;
+}
+
+.translation-icon {
+    position: absolute;
+    bottom: 0.6rem;
+    right: 4rem;
+    font-size: 1rem;
+    pointer-events: none;
+    color: var(--colour-secondary);
+    transition: opacity 0.1s ease-in-out;
+    opacity: 1;
+}
+
+.icon-fade-out {
+    opacity: 0;
+}
